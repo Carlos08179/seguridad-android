@@ -1,3 +1,13 @@
+## 📄 Respuestas de la Consigna S14
+
+Las **respuestas detalladas a todas las preguntas y actividades** de esta sesión están disponibles en el archivo:
+
+👉 **[`consigna-s14.md`](./consigna-s14.md)**  
+
+💡  Contiene explicaciones, ejemplos de código en Kotlin/XML y detalles técnicos clave que complementan el proyecto.
+
+
+
 # App de Seguridad y Privacidad
 
 Una aplicación Android que demuestra el manejo seguro de permisos y protección de datos personales.
